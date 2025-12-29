@@ -86,7 +86,6 @@ gcc exercice1.c -o exercice1
 ## 📄 Licence
 
 Ce contenu est libre d’utilisation à des fins **éducatives**.  
-Vous pouvez le copier, le modifier et le partager.
 
 ---
 
